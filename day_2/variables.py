@@ -54,7 +54,7 @@ print("Floor division:", floor_division)
 
 # 12. Calculs liés au cercle
 radius = 30
-pi = 3.14159
+pi = 3.14
 
 area_of_circle = pi * radius ** 2
 circum_of_circle = 2 * pi * radius
